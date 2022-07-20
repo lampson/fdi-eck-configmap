@@ -1,0 +1,4 @@
+clusterName: ""
+elasticSearchUrl: "elasticSearchUrl"
+elasticSearchUsername: "elastic" 
+elasticSearchPassword: ""
